@@ -1,6 +1,6 @@
-MKBRUTUS.py
+TMKBRUTUS.py
 ========
-
+Termux Version
 Password bruteforcer for MikroTik devices or boxes running RouterOS
 
 AUTHORS:<br>
